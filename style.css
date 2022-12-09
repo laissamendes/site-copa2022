@@ -1,0 +1,249 @@
+.cor1 {
+  background-color: #ffffff;
+}
+
+.nome {
+  color: white;
+}
+
+.container>h2 {
+  color: white;
+}
+
+.navbar:hover {
+  color: white;
+}
+
+body {
+  background: linear-gradient(90deg,
+      rgb(105, 23, 55) 0%,
+      rgb(133, 15, 80) 100%);
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-bottom: 5px;
+}
+
+#pagina1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+#local {
+  background-color: #ffffffc6;
+  border-radius: 15px 15px 15px 15px;
+  color: #731a4b;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+
+}
+
+#gol-mais-bonito {
+  background-color: #ffffffc6;
+  border-radius: 15px 15px 15px 15px;
+  color: #731a4b;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+#bola-da-copa {
+  background-color: #ffffffc6;
+  border-radius: 15px 15px 15px 15px;
+  color: #731a4b;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+.grupos-selecionados>p,
+.grupos-selecionados>h3 {
+  background-color: rgba(255, 255, 255, 0.842);
+  border-radius: 5px;
+  display: inline-block;
+  color: rgb(105, 23, 55);
+}
+
+.case>a {
+  color: #731a4b;
+}
+
+.case>a :hover {
+  color: #9e2467;
+}
+
+.tabela-grupo td,
+.tabela-grupo th {
+  color: white !important;
+  width: 10%;
+}
+
+.tabela-grupo2 {
+  background-color: rgba(255, 255, 255, 0.564) !important;
+  color: white !important;
+}
+
+.tabela-grupo2 td,
+.tabela-grupo2 th {
+  color: white !important;
+  width: 10%;
+
+}
+
+.tabela-grupo3 td,
+.tabela-grupo3 th {
+  color: white !important;
+  width: 10%;
+}
+
+.tabela-grupo4 {
+  background-color: rgba(255, 255, 255, 0.564) !important;
+  color: white !important;
+}
+
+.tabela-grupo4 td,
+.tabela-grupo4 th {
+  color: white !important;
+  width: 10%;
+}
+
+.tabela-grupo5 td,
+.tabela-grupo5 th {
+  color: white !important;
+  width: 10%;
+}
+
+.tabela-grupo6 {
+  background-color: rgba(255, 255, 255, 0.564) !important;
+  color: white !important;
+}
+
+.tabela-grupo6 td,
+.tabela-grupo6 th {
+  color: white !important;
+  width: 10%;
+}
+
+.tabela-grupo7 td,
+.tabela-grupo7 th {
+  color: white !important;
+  width: 10%;
+
+}
+
+.tabela-grupo8 {
+  background-color: rgba(255, 255, 255, 0.564) !important;
+  color: white !important;
+}
+
+.tabela-grupo8 td,
+.tabela-grupo8 th {
+  color: white !important;
+  width: 10%;
+
+}
+
+#fileira-grupo1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-top: 25px;
+}
+
+#fileira-grupo2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-top: 10px;
+}
+
+#A {
+  background-color: #ffffffc6;
+  border-radius: 15px 15px 15px 15px;
+  color: #731a4b;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+.lives-grupos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 10px;
+
+}
+
+#live>a {
+  color: #731a4b;
+  text-decoration: wavy;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.603);
+}
+
+#live>a:hover {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+#live {
+  text-align: center;
+}
+
+#noticias {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 10px;
+}
+
+#N {
+  color: white;
+  border: solid 2px white;
+  text-align: center;
+  border-top: none;
+  border-bottom: none;
+  background-color: #ffffff41;
+}
+
+#fotos-album>img {
+  background-color: #ffffffc6;
+  border-radius: 15px 15px 15px 15px;
+  color: #731a4b;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+  margin-top: 10px;
+}
+
+#album {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 10px;
+}
+
+#panini {
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#link-album {
+  color: #731a4b;
+  text-decoration: wavy;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.603);
+}
+
+#link-album:hover {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+#classificados{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+}
+#people{
+  color: white;
+}
